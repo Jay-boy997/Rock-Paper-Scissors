@@ -1,0 +1,30 @@
+body {
+    background-color: brown;
+    
+}
+
+.runningscore {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    color: green;
+}
+
+button {
+    color: black;
+    background-color: blue;
+    border-radius: 30%;
+    border: solid;
+    padding: 10px;
+}
+
+.outcome {
+        color: deeppink;
+}
+
